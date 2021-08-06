@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904119380144",
+    "project_id": "payflow-boleto",
+    "storage_bucket": "payflow-boleto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904119380144:android:03a05f2e5914147e78b375",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904119380144-hpcqcjfnjqivqvvbdr50ho2lpe5ucm9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "81bea0fc9db572bbf758cbd5bf70232e84c71642"
+          }
+        },
+        {
+          "client_id": "904119380144-2psru0e9hm674tps37fe10i04tjd811l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgB3LRg9hYmNtrKan7twQUnMHmIw-o0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904119380144-2psru0e9hm674tps37fe10i04tjd811l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
